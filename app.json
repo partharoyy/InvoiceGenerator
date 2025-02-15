@@ -4,6 +4,8 @@
     "slug": "InvoiceGenerator",
     "version": "1.0.0",
 
+    "newArchEnabled": true,
+
     "scheme": "InvoiceGenerator",
     "web": {
       "bundler": "metro",
